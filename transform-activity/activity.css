@@ -1,3 +1,7 @@
-main {
+main { 
+  transform: skew(10deg, 10deg);
+  width: auto;
+  height: auto;
+  
 
 }
